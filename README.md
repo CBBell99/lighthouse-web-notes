@@ -2,5 +2,5 @@
 
 ## Summary
 
-This repository contains all of the note taken by [Chris](https://github.com/CBBell99) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
+This repository contains all of the notes taken by [Chris](https://github.com/CBBell99) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
  
